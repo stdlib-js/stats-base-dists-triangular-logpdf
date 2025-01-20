@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`441ea68`](https://github.com/stdlib-js/stdlib/commit/441ea68883183d31363403a11d4142cabf4c0ef0) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`105516a`](https://github.com/stdlib-js/stdlib/commit/105516a2100144dce5d97682d979807a84ab1cb8) - **feat:** add C implementation for `stats/base/dists/triangular/logpdf` [(#4671)](https://github.com/stdlib-js/stdlib/pull/4671) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
 </details>
