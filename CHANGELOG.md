@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-05)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9b98e3f`](https://github.com/stdlib-js/stdlib/commit/9b98e3f6a8a80db920ed4aa05264e356aa019605) - **refactor:** reduce FLOPs _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-30)
