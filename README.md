@@ -65,13 +65,18 @@ where `a` is the lower limit and `b` is the upper limit and `c` is the mode.
 ## Usage
 
 ```javascript
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-logpdf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-triangular-logpdf/tags). For example,
+
+```javascript
 import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-logpdf@v0.3.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-logpdf@v0.3.1-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-logpdf@deno/mod.js';
 ```
 
 #### logpdf( x, a, b, c )
@@ -156,7 +161,7 @@ y = mylogpdf( 12.0 );
 
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-logpdf@v0.3.1-deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-logpdf@deno/mod.js';
 
 var a;
 var b;
